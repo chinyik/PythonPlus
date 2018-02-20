@@ -1,20 +1,17 @@
 [
   {
-    No: 1,
     Question: "Python \nscripts uses .python extension.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 2,
     Question: "Something and something are the same identifiers in Python.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   },
   {
-    No: 3,
     Question: "Question 3", 
     Choice1: "True", 
     Choice2: "False", 
