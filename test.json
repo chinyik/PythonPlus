@@ -106,5 +106,191 @@
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
+  }, 
+  { 
+    Question: "Operator '//' performs normal division.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
+    Question: "Operator '>>' is not a comparison operator.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "The following codes are valid: \n\na=0\nif condiiton == true:\ta=2", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "The following codes are valid: \n\na=b=0\nif condition1==true:\n\ta=b=1\nif condition2==true:\n\ta=2\n\tb=0\nif condition3==true:\n\t\ta=0\n\tb=2", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
+    Question: "The following codes are valid: \n\na=0\nif condition1==true:\n\telse:\n\t\ta=10", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
+    Question: "The following codes are valid: \n\nif condition11==true:\n\tif a=5:\n\t\tb=10\n\telif a=10:\n\t\tb=5", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "elif statement means else if.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "The types of loop are while loop and for loop in Python.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
+    Question: "The loop control statements are break, continue and pass in Python.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "break statement cause the loop to skip the remainder of the codes in a loop and restart the loop.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
+    Question: "Loops can be nested.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "complex is not a numerical type in Python.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
+    Question: "abs(x) remove the negative sign of x.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "If x=2, y=10, then cmp(x,y) returns -1.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "pow(x,y) is equivalent to y**x.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
+    Question: "The mathematical constants in Python are pi and e", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "String can be reassigned to update its value", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  { 
+    Question: "\n is a newline escape character.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "\t is a vertical tab escape character.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
+    Question: "[] operator gives the characters within a range.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
+    Question: "%s is a string formatting operator in Python that displays signed decimal integer.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  { 
+    Question: "(1, 2, 3) is a list", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  { 
+    Question: "Elements in list can be accessed, for example: list[1] in a list containing 'a', 'b', 'c' extracts b.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True
+  }, 
+  {
+    Question: "len([2, 2, 2, 4, 5]) gives an output 15",
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
+    Question: "3 in [1,2,3] returns true.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "len(list) returns the number of elements in the list.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "Tuples are immutable, meaning their values cannot be modified.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "A sequence without enclosing delimiters is treated as list.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
+    Question: "The key in Python dictionary can be not unique.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
+    Question: "The values in Python dictionary can be extracted by the key or index.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
+    Question: "Functions in Python are defined using keyword def.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
   }
 ]
