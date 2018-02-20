@@ -1,531 +1,455 @@
 [
   {
-    No: 1,
     Question: "Python scripts uses .python extension.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 2, 
     Question: "Something and something are the same identifiers in Python.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 3, 
     Question: "from is a reserved word in Python.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 4, 
     Question: "xor is a reserved word in Python.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 5, 
     Question: "The following code will result in error: \\n\\nif condition1 == true:\\n\\tvar1=1\\nelif condition2 == true:\\n\\tvar2=2\\nelse:\\nvar3=3", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 6, 
     Question: "Triple quotes is not allowed in Python.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 7, 
     Question: "Multiple assignment of variables is not allowed in Python.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 8, 
     Question: "It is possible to perform multiple assignment to variables of different types in Python.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 9, 
     Question: "Function is a standard data types in Python.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 10, 
     Question: "long is a Python supported numerical types", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 11, 
     Question: "The object created in Python can be removed by using delete statement.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 12, 
     Question: "Python strings index start with 1", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 13, 
     Question: "str[1:4] operation extracts the 2nd until 4th characters in a string.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 14, 
     Question: "It is not possible to concatenate two Python lists.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 15, 
     Question: "Python tuples are enclosed with parentheses ()", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
-  {
-    No: 16,  
+  { 
     Question: "Python dictionaries consist of a pair of key and value", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 17, 
     Question: "char(x) is a type of conversion in Python.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 18, 
     Question: "AND is a arithmetic operation in Python", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
-  {
-    No: 19,  
+  { 
     Question: "Operator '//' performs normal division.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 20, 
     Question: "Operator '>>' is not a comparison operator.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 21, 
     Question: "The following codes are valid: \\n\\na=0\\nif condiiton == true:\\ta=2", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 22, 
     Question: "The following codes are valid: \\n\\na=b=0\\nif condition1==true:\\n\\ta=b=1\\nif condition2==true:\\n\\ta=2\\n\\tb=0\\nif condition3==true:\\n\\t\\ta=0\\n\\tb=2", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 23, 
     Question: "The following codes are valid: \\n\\na=0\\nif condition1==true:\\n\\telse:\\n\\t\\ta=10", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 24, 
     Question: "The following codes are valid: \\n\\nif condition11==true:\\n\\tif a=5:\\n\\t\\tb=10\\n\\telif a=10:\\n\\t\\tb=5", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 25, 
     Question: "elif statement means else if.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 26, 
     Question: "The types of loop are while loop and for loop in Python.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 27, 
     Question: "The loop control statements are break, continue and pass in Python.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 28, 
     Question: "break statement cause the loop to skip the remainder of the codes in a loop and restart the loop.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 29, 
     Question: "Loops can be nested.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 30, 
     Question: "complex is not a numerical type in Python.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 31, 
     Question: "abs(x) remove the negative sign of x.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 32, 
     Question: "If x=2, y=10, then cmp(x,y) returns -1.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 33, 
     Question: "pow(x,y) is equivalent to y**x.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 34, 
     Question: "The mathematical constants in Python are pi and e", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 35, 
     Question: "String can be reassigned to update its value", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
-  {
-    No: 36, 
+  { 
     Question: "\n is a newline escape character.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 37, 
     Question: "\t is a vertical tab escape character.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 38, 
     Question: "[] operator gives the characters within a range.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 39, 
     Question: "%s is a string formatting operator in Python that displays signed decimal integer.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
-  {
-    No: 40, 
+  { 
     Question: "(1, 2, 3) is a list", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
-  {
-    No: 41, 
+  { 
     Question: "Elements in list can be accessed, for example: list[1] in a list containing 'a', 'b', 'c' extracts b.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True
   }, 
   {
-    No: 42, 
     Question: "len([2, 2, 2, 4, 5]) gives an output 15",
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 43, 
     Question: "3 in [1,2,3] returns true.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 44, 
     Question: "len(list) returns the number of elements in the list.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 45, 
     Question: "Tuples are immutable, meaning their values cannot be modified.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 46, 
     Question: "A sequence without enclosing delimiters is treated as list.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 47, 
     Question: "The key in Python dictionary can be not unique.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 48, 
     Question: "The values in Python dictionary can be extracted by the key or index.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 49, 
     Question: "Functions in Python are defined using keyword def.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 50, 
     Question: "All the functions in Python are passed by reference.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 51, 
     Question: "The argument used in func(args='argument') is keyword argument.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 52, 
     Question: "The first argument used in def func(args1=0, args2) is required argument", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 53, 
     Question: "Anonymous function can be declared using either def or lambda keyword.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
-  {
-    No: 54, 
+  { 
     Question: "Values can be returned in a Python function.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 55, 
     Question: "Local variables are the one that have their values change inside a function only.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 56, 
     Question: "Global variables are the one that is declared in a function.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 57, 
     Question: "from package import * statement will import all the methods in the package.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 58, 
     Question: "The Python interpreter first searches the module from the current directory.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 59, 
     Question: "If a module is not found in the current directory, the Python interpreter will checks the PYTHONPATH path.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "Fase"
   }, 
   {
-    No: 60, 
     Question: "global keyword enables changes made on the values of the global variables.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 61, 
     Question: "User-input can be prompted using input function only.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 62, 
     Question: "To open file, file object = file.open(file_name, 'r') statement is used.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 63, 
     Question: "+ keyword in the access mode means the file can be opened for both reading and writing.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 64, 
     Question: "b keyword in the access mode means the file is opened in binary format.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 65, 
     Question: "After file.close() is called, the content of the file opened can still be overwritten.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 66, 
     Question: "file.write(string) print the content of the string in the file opened.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 67, 
     Question: "file.read(10) means it reads the 9th character from the file opened.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 68, 
     Question: "file objects have a built in rename method that makes changes to the name of the file.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 69, 
     Question: "Any file can be removed using os.remove(file_name).", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 70, 
     Question: "Any directory can be removed using os.rmdir(directory).", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 71, 
     Question: "An exception can be handled using try and catch blocks.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
-  {
-    No: 72, 
+  { 
     Question: "A single ty statement can have multiple except statements.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 73, 
     Question: "else clause in exception handling is for the codes that do not need the try protection.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 74, 
     Question: "The codes in the finally block in exception handling will not be executed if the exception is caught.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    No: 75, 
     Question: "It is possible to have arguemnts in an exception.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    No: 76, 
     Question: "Exceptions can be defined by the user.", 
     Choice1: "True", 
     Choice2: "False", 
