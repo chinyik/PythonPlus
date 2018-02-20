@@ -76,5 +76,35 @@
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
+  }, 
+  {
+    Question: "It is not possible to concatenate two Python lists.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
+    Question: "Python tuples are enclosed with parentheses ()", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  { 
+    Question: "Python dictionaries consist of a pair of key and value", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "char(x) is a type of conversion in Python.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
+    Question: "AND is a arithmetic operation in Python", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
   }
 ]
