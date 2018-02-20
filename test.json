@@ -244,19 +244,7 @@
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True
-  }, 
-  {
-    Question: "len([2, 2, 2, 4, 5]) gives an output 15",
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "False"
-  }, 
-  {
-    Question: "3 in [1,2,3] returns true.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "True"
-  }, 
+  },  
   {
     Question: "len(list) returns the number of elements in the list.", 
     Choice1: "True", 
