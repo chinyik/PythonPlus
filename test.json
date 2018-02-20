@@ -24,7 +24,7 @@
     Answer: "False"
   }, 
   {
-    Question: "The following code will result in error: \\n\\nif condition1 == true:\\n\\tvar1=1\\nelif condition2 == true:\\n\\tvar2=2\\nelse:\\nvar3=3", 
+    Question: "The following code will result in error: \n\nif condition1 == true:\n\tvar1=1\nelif condition2 == true:\n\tvar2=2\nelse:\nvar3=3", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
