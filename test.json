@@ -239,12 +239,6 @@
     Choice2: "False", 
     Answer: "False"
   }, 
-  { 
-    Question: "Elements in list can be accessed, for example: list[1] in a list containing 'a', 'b', 'c' extracts b.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "True
-  },  
   {
     Question: "len(list) returns the number of elements in the list.", 
     Choice1: "True", 
