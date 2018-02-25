@@ -6,6 +6,18 @@
     Answer: "False"
   }, 
   {
+    Question: "Python scripts uses .pyt extension.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
+    Question: "Python scripts uses .py extension.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
     Question: "Something and something are the same identifiers in Python.", 
     Choice1: "True", 
     Choice2: "False", 
@@ -18,13 +30,37 @@
     Answer: "True"
   }, 
   {
+    Question: "for is a reserved word in Python.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "to is a reserved word in Python.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "False"
+  }, 
+  {
     Question: "xor is a reserved word in Python.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    Question: "The following code will result in error: \\n\\nif condition1 == true:\\n\\tvar1=1\\nelif condition2 == true:\\n\\tvar2=2\\nelse:\\nvar3=3", 
+    Question: "or is a reserved word in Python.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "not is a reserved word in Python.", 
+    Choice1: "True", 
+    Choice2: "False", 
+    Answer: "True"
+  }, 
+  {
+    Question: "The following code will result in error: \n\nif condition1 == true:\n\tvar1=1\nelif condition2 == true:\n\tvar2=2\nelse:\nvar3=3", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
@@ -120,25 +156,25 @@
     Answer: "True"
   }, 
   {
-    Question: "The following codes are valid: \\n\\na=0\\nif condiiton == true:\\ta=2", 
+    Question: "The following codes are valid: \n\na=0\nif condiiton == true:\ta=2", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    Question: "The following codes are valid: \\n\\na=b=0\\nif condition1==true:\\n\\ta=b=1\\nif condition2==true:\\n\\ta=2\\n\\tb=0\\nif condition3==true:\\n\\t\\ta=0\\n\\tb=2", 
+    Question: "The following codes are valid: \n\na=b=0\nif condition1==true:\n\ta=b=1\nif condition2==true:\n\ta=2\n\tb=0\nif condition3==true:\n\t\ta=0\n\tb=2", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    Question: "The following codes are valid: \\n\\na=0\\nif condition1==true:\\n\\telse:\\n\\t\\ta=10", 
+    Question: "The following codes are valid: \n\na=0\nif condition1==true:\n\telse:\n\t\ta=10", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
   }, 
   {
-    Question: "The following codes are valid: \\n\\nif condition11==true:\\n\\tif a=5:\\n\\t\\tb=10\\n\\telif a=10:\\n\\t\\tb=5", 
+    Question: "The following codes are valid: \n\nif condition11==true:\n\tif a=5:\n\t\tb=10\n\telif a=10:\n\t\tb=5", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
@@ -210,13 +246,13 @@
     Answer: "True"
   }, 
   { 
-    Question: "\n is a newline escape character.", 
+    Question: "\\n is a newline escape character.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
   }, 
   {
-    Question: "\t is a vertical tab escape character.", 
+    Question: "\\t is a vertical tab escape character.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
@@ -238,24 +274,6 @@
     Choice1: "True", 
     Choice2: "False", 
     Answer: "False"
-  }, 
-  { 
-    Question: "Elements in list can be accessed, for example: list[1] in a list containing 'a', 'b', 'c' extracts b.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "True
-  }, 
-  {
-    Question: "len([2, 2, 2, 4, 5]) gives an output 15",
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "False"
-  }, 
-  {
-    Question: "3 in [1,2,3] returns true.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "True"
   }, 
   {
     Question: "len(list) returns the number of elements in the list.", 
@@ -355,102 +373,6 @@
   }, 
   {
     Question: "global keyword enables changes made on the values of the global variables.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "True"
-  }, 
-  {
-    Question: "User-input can be prompted using input function only.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "False"
-  }, 
-  {
-    Question: "To open file, file object = file.open(file_name, 'r') statement is used.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "False"
-  }, 
-  {
-    Question: "+ keyword in the access mode means the file can be opened for both reading and writing.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "True"
-  }, 
-  {
-    Question: "b keyword in the access mode means the file is opened in binary format.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "True"
-  }, 
-  {
-    Question: "After file.close() is called, the content of the file opened can still be overwritten.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "False"
-  }, 
-  {
-    Question: "file.write(string) print the content of the string in the file opened.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "True"
-  }, 
-  {
-    Question: "file.read(10) means it reads the 9th character from the file opened.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "False"
-  }, 
-  {
-    Question: "file objects have a built in rename method that makes changes to the name of the file.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "False"
-  }, 
-  {
-    Question: "Any file can be removed using os.remove(file_name).", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "True"
-  }, 
-  {
-    Question: "Any directory can be removed using os.rmdir(directory).", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "True"
-  }, 
-  {
-    Question: "An exception can be handled using try and catch blocks.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "False"
-  }, 
-  { 
-    Question: "A single ty statement can have multiple except statements.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "True"
-  }, 
-  {
-    Question: "else clause in exception handling is for the codes that do not need the try protection.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "True"
-  }, 
-  {
-    Question: "The codes in the finally block in exception handling will not be executed if the exception is caught.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "False"
-  }, 
-  {
-    Question: "It is possible to have arguemnts in an exception.", 
-    Choice1: "True", 
-    Choice2: "False", 
-    Answer: "True"
-  }, 
-  {
-    Question: "Exceptions can be defined by the user.", 
     Choice1: "True", 
     Choice2: "False", 
     Answer: "True"
